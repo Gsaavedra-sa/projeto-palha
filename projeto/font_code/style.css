@@ -1,0 +1,39 @@
+.divImage{
+    position:relative;
+}
+.btn{
+    position:absolute;
+}
+
+body {
+    background-color: white;
+}
+
+
+
+.btn0{
+    top:685px;
+    left: 29%;
+    right:10px;
+}
+.btn1{
+    top: 33%;
+    left:65%;
+    right:50px;
+}
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 2px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     }
+     .btn:hover{
+        
+            background-color: rgb(10, 255, 121);
+            opacity: 90%;
+            transition: 0.5s;
+          
+     }
